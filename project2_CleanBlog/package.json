@@ -1,0 +1,24 @@
+{
+  "name": "project2_cleanblog",
+  "version": "1.0.0",
+  "description": "Clean Blog Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "blog",
+    "repo",
+    "writing"
+  ],
+  "author": "Serkan Berk Bilgiç",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prettier": "2.8.7"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
